@@ -4,5 +4,6 @@ O objetivo deste projeto é criar um portfólio online que apresente minhas habi
 Este projeto funciona como um portfólio digital para apresentar minha trajetória como estudante de TI. Ele organiza informações sobre minha formação acadêmica, cursos realizados e projetos desenvolvidos, destacando minhas principais habilidades. Além disso, o site oferece uma seção dedicada para contato, facilitando a comunicação com profissionais e empresas. Com um design minimalista e intuitivo, ele proporciona uma experiência agradável ao usuário. O objetivo é transmitir profissionalismo, criar conexões e servir como uma vitrine do meu desenvolvimento técnico.
 # Tecnologias
 • **HTML:** Para a formação do Site.
+
 • **CSS:** Para o design e estilização.
 
